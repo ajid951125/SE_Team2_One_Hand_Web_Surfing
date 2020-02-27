@@ -4,7 +4,7 @@ Leap Motion Chrome Extension
 
 This is a project for class made by SungKyunKwan University students. Thus, it is for learning purpose, do not use on public domain. Leap motion no longer actively support V2 Desktop but still available.
 
-Watch Intro Video: [https://www.dropbox.com/s/nxygyb5hkvs3c80/Team%202%2C%20One%20Hand%20Web%20Surfing.mp4?dl=0](https://www.dropbox.com/s/nxygyb5hkvs3c80/Team%202%2C%20One%20Hand%20Web%20Surfing.mp4?dl=0)
+Watch Intro Video: [https://youtu.be/p4Fm1Z-QmAg](https://www.dropbox.com/s/nxygyb5hkvs3c80/Team%202%2C%20One%20Hand%20Web%20Surfing.mp4?dl=0)
 
 
 Libraries Used:
